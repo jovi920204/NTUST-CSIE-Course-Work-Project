@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\台科大\程式設計\110-2\上課程式練習碼\Dungeon_HW05\Dungeon_HW05\Week07_Practice\Week04_Practice\Source.cpp(146,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  Week04_Practice.vcxproj -> D:\台科大\程式設計\110-2\上課程式練習碼\Dungeon_HW05\Dungeon_HW05\Week07_Practice\Debug\Week07_Pointers.exe

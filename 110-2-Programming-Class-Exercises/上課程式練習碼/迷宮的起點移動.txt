@@ -1,0 +1,45 @@
+//使用鍵盤控制上下左右移動
+//按下鍵盤Q離開
+//可移動地圖大小20*20
+
+#include <iostream>
+#include <cstdlib>
+#include <conio.h>
+
+void draw(int x, int y) {
+	for (int i = 0; i < x; i++) std::cout << "\n";
+	for (int i = 0; i < y; i++) std::cout << " ";
+	std::cout << "@" << "\n";
+}
+int main(int argc, char **argv)
+{
+	int x = 0, y = 0;
+	do {
+		std::cout << "移動方向鍵: w上 s下 a左 d右 , 離開:q" << "\n";
+		draw(x, y);
+		char input;
+		input = _getch();
+		switch (input) {
+		case 'w':
+			x--;
+			break;
+		case 's':
+			x++;
+			break;
+		case 'a':
+			y--;
+			break;
+		case 'd':
+			y++;
+			break;
+		case 'q':
+			x = 20;
+			y = 20;
+			break;
+		}
+		if (x < 0) x = 0;
+		if (y < 0) y = 0;
+		system("cls");
+	} while (x < 20 && y < 20);
+	
+}

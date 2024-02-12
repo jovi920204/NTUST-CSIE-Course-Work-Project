@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\台科大\程式設計\110-2\上課程式練習碼\Dungeon_HW0910\Dungeon_HW10\Dungeon_HW0910\Week10_Framework\Week04_Practice\Source.cpp(247,20): warning C4018: '<': signed/unsigned mismatch
+E:\台科大\程式設計\110-2\上課程式練習碼\Dungeon_HW0910\Dungeon_HW10\Dungeon_HW0910\Week10_Framework\Week04_Practice\Source.cpp(256,20): warning C4018: '<': signed/unsigned mismatch
+  Week04_Practice.vcxproj -> E:\台科大\程式設計\110-2\上課程式練習碼\Dungeon_HW0910\Dungeon_HW10\Dungeon_HW0910\Week10_Framework\Debug\Week10_Framework.exe

@@ -1,0 +1,4 @@
+﻿  PrimeNumber.cpp
+F:\台科大\程式設計\110-2\正課\CS3005302W06\TS0602\PrimeNumber.cpp(33): warning C4172: returning address of local variable or temporary: result
+F:\台科大\程式設計\110-2\正課\CS3005302W06\TS0602\PrimeNumber.cpp(55): warning C4172: returning address of local variable or temporary: result
+  TS0602.vcxproj -> F:\台科大\程式設計\110-2\正課\CS3005302W06\x64\Debug\TS0602.exe

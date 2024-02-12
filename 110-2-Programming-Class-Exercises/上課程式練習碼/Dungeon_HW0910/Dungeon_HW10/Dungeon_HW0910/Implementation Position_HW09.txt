@@ -1,0 +1,16 @@
+
+在原先的Creature底下繼承不同的敵對生物(1隻以上) (0.2%)
+File: source.cpp
+Line: 15
+
+
+不同敵對生物顯示尚須以不同符號並帶有不同特性(0.4%)
+File: source.cpp
+Line: 15
+
+
+統一使用Creature*陣列/Vector管理 (0.2%)
+File: source.cpp
+Line: 15
+
+

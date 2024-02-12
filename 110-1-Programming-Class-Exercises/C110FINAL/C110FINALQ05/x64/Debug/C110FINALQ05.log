@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ05\main.c(44,8): warning C4102: 'defult': 未參考的標籤
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ05\main.c(59,15): warning C4013: 'isdigit' 未定義; 假設 extern 傳回整數
+  C110FINALQ05.vcxproj -> C:\Users\USER\Desktop\C110FINAL\x64\Debug\C110FINALQ05.exe

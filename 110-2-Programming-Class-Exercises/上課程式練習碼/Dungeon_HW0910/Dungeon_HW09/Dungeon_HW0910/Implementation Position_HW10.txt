@@ -1,0 +1,13 @@
+建立Item Class並在底下繼承帶不同特性的不同Item (0.3%)
+File: source.cpp
+Line: 15
+
+對其使用Polymorphism或Virtual Function (0.5%)
+File: source.cpp
+Line: 15
+
+統一使用Item*陣列/Vector管理 (0.2%)
+File: source.cpp
+Line: 15
+
+

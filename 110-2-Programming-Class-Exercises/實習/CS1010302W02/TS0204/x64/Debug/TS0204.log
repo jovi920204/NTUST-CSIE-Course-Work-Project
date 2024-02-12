@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\台科大\程式設計\110-2\實習\CS1010302W02\TS0204\Source.cpp(26,34): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\台科大\程式設計\110-2\實習\CS1010302W02\TS0204\Source.cpp(29,38): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\台科大\程式設計\110-2\實習\CS1010302W02\TS0204\Source.cpp(32,36): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0204.vcxproj -> D:\台科大\程式設計\110-2\實習\CS1010302W02\x64\Debug\TS0204.exe

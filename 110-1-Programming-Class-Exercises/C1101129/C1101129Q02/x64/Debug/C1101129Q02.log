@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\張睿麟\Desktop\C programming\C1101129\C1101129Q02\main.c(23,7): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+C:\Users\張睿麟\Desktop\C programming\C1101129\C1101129Q02\main.c(31,20): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+C:\Users\張睿麟\Desktop\C programming\C1101129\C1101129Q02\main.c(117,14): warning C4013: 'isdigit' 未定義; 假設 extern 傳回整數
+C:\Users\張睿麟\Desktop\C programming\C1101129\C1101129Q02\main.c(104): warning C4715: 'cmp': 不是所有控制路徑都傳回值
+  C1101129Q02.vcxproj -> C:\Users\張睿麟\Desktop\C programming\C1101129\x64\Debug\C1101129Q02.exe

@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ04\main.c(114,7): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ04\main.c(28): warning C4715: 'FrontIsWall': 不是所有控制路徑都傳回值
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ04\main.c(40): warning C4715: 'LeftIsWall': 不是所有控制路徑都傳回值
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ04\main.c(52): warning C4715: 'RightIsWall': 不是所有控制路徑都傳回值
+  C110FINALQ04.vcxproj -> C:\Users\USER\Desktop\C110FINAL\x64\Debug\C110FINALQ04.exe

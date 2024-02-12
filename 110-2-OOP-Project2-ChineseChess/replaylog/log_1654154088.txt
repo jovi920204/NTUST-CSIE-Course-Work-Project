@@ -1,0 +1,12 @@
+Player: 1, Action: Soldier (4, 6) -> (4, 5)
+Player: 2, Action: Soldier (4, 3) -> (4, 4)
+Player: 1, Action: Soldier (4, 5) -> (4, 4)
+Player: 1, Action: Soldier (4, 6) -> (4, 5)
+Player: 2, Action: Soldier (4, 3) -> (4, 4)
+Player: 1, Action: Soldier (4, 5) -> (4, 4)
+Player: 2, Action: Soldier (6, 3) -> (6, 4)
+Player: 1, Action: Soldier (4, 4) -> (4, 3)
+Player: 2, Action: Soldier (2, 3) -> (2, 4)
+Player: 1, Action: Soldier (4, 3) -> (5, 3)
+Player: 2, Action: General (4, 0) -> (4, 9)
+Black Win

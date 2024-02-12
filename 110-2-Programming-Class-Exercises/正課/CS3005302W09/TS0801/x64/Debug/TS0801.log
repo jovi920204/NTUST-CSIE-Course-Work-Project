@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Polynomial.cpp
+G:\台科大\程式設計\110-2\正課\CS3005302W09\TS0801\Polynomial.cpp(25,17): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  正在產生程式碼...
+  TS0801.vcxproj -> G:\台科大\程式設計\110-2\正課\CS3005302W09\x64\Debug\TS0801.exe

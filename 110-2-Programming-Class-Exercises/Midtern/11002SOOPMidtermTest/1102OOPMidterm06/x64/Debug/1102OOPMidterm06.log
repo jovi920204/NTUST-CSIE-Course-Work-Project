@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\張睿麟\Desktop\Midtern\11002SOOPMidtermTest\1102OOPMidterm06\main.cpp(61,4): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\張睿麟\Desktop\Midtern\11002SOOPMidtermTest\1102OOPMidterm06\main.cpp(74,4): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  1102OOPMidterm06.vcxproj -> C:\Users\張睿麟\Desktop\Midtern\11002SOOPMidtermTest\x64\Debug\1102OOPMidterm06.exe

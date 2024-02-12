@@ -1,0 +1,4 @@
+﻿  NumberGame.cpp
+F:\台科大\程式設計\110-2\正課\CS3005302W06\TS0603\NumberGame.cpp(23,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\台科大\程式設計\110-2\正課\CS3005302W06\TS0603\NumberGame.cpp(24,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TS0603.vcxproj -> F:\台科大\程式設計\110-2\正課\CS3005302W06\x64\Debug\TS0603.exe

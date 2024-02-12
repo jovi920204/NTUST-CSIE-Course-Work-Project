@@ -1,0 +1,66 @@
+map
+1
+15 20
+2 2
+5 7
+4 8 10 10 0 5
+OOOOOOOOOOOOOOOOOOOO
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+OOOOOOOOOOOOOOOOOOOO
+
+map
+2
+15 20
+2 2
+10 10
+6 6 3 7 5 5
+OOOOOOOOOOOOOOOOOOOO
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+OOOOOOOOOOOOOOOOOOOO
+
+map
+3
+15 20
+2 2
+5 5
+4 4 2 13 10 10
+OOOOOOOOOOOOOOOOOOOO
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+O                  O
+OOOOOOOOOOOOOOOOOOOO
+end

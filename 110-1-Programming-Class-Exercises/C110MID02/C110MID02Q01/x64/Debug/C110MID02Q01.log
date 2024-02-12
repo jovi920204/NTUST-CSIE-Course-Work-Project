@@ -1,0 +1,4 @@
+﻿  main.c
+D:\台科大\程式設計\C110MID02\C110MID02Q01\main.c(12,6): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+D:\台科大\程式設計\C110MID02\C110MID02Q01\main.c(17,23): warning C4267: '-=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  C110MID02Q01.vcxproj -> D:\台科大\程式設計\C110MID02\x64\Debug\C110MID02Q01.exe

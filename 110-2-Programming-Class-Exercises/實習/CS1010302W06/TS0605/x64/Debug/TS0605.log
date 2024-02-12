@@ -1,0 +1,8 @@
+﻿  Creature.cpp
+F:\台科大\程式設計\110-2\實習\CS1010302W06\TS0605\Creature.cpp(9,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\台科大\程式設計\110-2\實習\CS1010302W06\TS0605\Creature.cpp(15,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Diary.cpp
+F:\台科大\程式設計\110-2\實習\CS1010302W06\TS0605\Diary.cpp(13,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  TS0605.vcxproj -> F:\台科大\程式設計\110-2\實習\CS1010302W06\x64\Debug\TS0605.exe

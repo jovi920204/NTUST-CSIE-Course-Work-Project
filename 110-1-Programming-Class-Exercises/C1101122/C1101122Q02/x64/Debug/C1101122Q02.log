@@ -1,0 +1,5 @@
+﻿  main.c
+F:\台科大\程式設計\C1101122\C1101122Q02\main.c(24,9): warning C4013: 'gets' undefined; assuming extern returning int
+F:\台科大\程式設計\C1101122\C1101122Q02\main.c(26,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\台科大\程式設計\C1101122\C1101122Q02\main.c(27,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C1101122Q02.vcxproj -> F:\台科大\程式設計\C1101122\x64\Debug\C1101122Q02.exe

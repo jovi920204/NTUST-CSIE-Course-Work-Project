@@ -1,0 +1,18 @@
+1. Build implication table for state pairs.
+    建立二維矩陣
+2. Remove output incompatible pairs.
+    快篩：找尋絕對不可能化簡的項目，並打叉叉 => input/output = 0/1 && input/output = 1/0 這種情況
+    也就是所有的input != output 就是不相容的state
+3. List transition (next state) pairs.
+    找出current state他們的next state的關係
+4. Check compatibility of transition pair.
+    從每一格中，查看是不是不相容，不相容的條件是next state的對應關係是否剛好為已確定為不相容的state
+    Remove incompatible transition pairs.每次找到不相容後，要再重投檢查一遍，直至完全沒有
+5. Merge remaining compatible states.
+    合併可以相容的兩個狀態，保留第一個出現的
+    刪掉的那個，必須把在表格中有出線的地方，取代成保留的狀態
+6. Update implication table
+    在矩陣裡，也要更新，把刪掉的state所包含的row和column都標記
+
+kiss file format：
+<input> <current-state> <next-state> <output>

@@ -1,0 +1,5 @@
+﻿  Atoi.cpp
+D:\台科大\程式設計\110-2\正課\CS3005302W07\TS0702\Atoi.cpp(26,30): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\台科大\程式設計\110-2\正課\CS3005302W07\TS0702\Atoi.cpp(28,25): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\台科大\程式設計\110-2\正課\CS3005302W07\TS0702\Atoi.cpp(54,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0702.vcxproj -> D:\台科大\程式設計\110-2\正課\CS3005302W07\x64\Debug\TS0702.exe

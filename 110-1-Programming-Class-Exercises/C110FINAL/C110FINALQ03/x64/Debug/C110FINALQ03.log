@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ03\func.h(69,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ03\func.h(84,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ03\func.h(99,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ03\func.h(114,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  C110FINALQ03.vcxproj -> C:\Users\USER\Desktop\C110FINAL\x64\Debug\C110FINALQ03.exe

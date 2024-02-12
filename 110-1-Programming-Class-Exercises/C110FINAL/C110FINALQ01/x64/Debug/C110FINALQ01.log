@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\USER\Desktop\C110FINAL\C110FINALQ01\main.c(12,6): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  C110FINALQ01.vcxproj -> C:\Users\USER\Desktop\C110FINAL\x64\Debug\C110FINALQ01.exe

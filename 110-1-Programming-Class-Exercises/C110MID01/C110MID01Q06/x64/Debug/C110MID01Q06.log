@@ -1,0 +1,4 @@
+﻿  main.c
+D:\台科大\程式設計\C110MID01\C110MID01Q06\main.c(9,18): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+D:\台科大\程式設計\C110MID01\C110MID01Q06\main.c(16,9): warning C4013: 'abs' 未定義; 假設 extern 傳回整數
+  C110MID01Q06.vcxproj -> D:\台科大\程式設計\C110MID01\x64\Debug\C110MID01Q06.exe

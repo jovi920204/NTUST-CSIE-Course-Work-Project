@@ -1,0 +1,3 @@
+﻿  main.c
+D:\台科大\程式設計\C110MID01\C110MID01Q02\main.c(19): warning C4715: 'fuc': 不是所有控制路徑都傳回值
+  C110MID01Q02.vcxproj -> D:\台科大\程式設計\C110MID01\x64\Debug\C110MID01Q02.exe

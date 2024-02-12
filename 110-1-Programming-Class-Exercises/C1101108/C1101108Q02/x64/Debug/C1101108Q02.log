@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\USER\Desktop\C\C1101108\C1101108Q02\main.c(22,22): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+  C1101108Q02.vcxproj -> C:\Users\USER\Desktop\C\C1101108\x64\Debug\C1101108Q02.exe

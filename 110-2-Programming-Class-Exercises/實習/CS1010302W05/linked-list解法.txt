@@ -1,0 +1,114 @@
+//第一題 張睿麟
+#include <iostream>
+using namespace std;
+
+typedef struct StRec{
+	string firstName;
+	string lastName;
+	string phone;
+	StRec* next;
+} StRec;
+
+void _insert(StRec* data);
+void _search(StRec* data);
+void _delete (StRec* data);
+void _print();
+bool notNumber(string phone);
+StRec* head;
+
+int main() {
+	string input;
+	head = new StRec;
+	while (cin >> input) {
+		if (input == "print") {
+			_print();
+		}
+		else {
+			StRec* data;
+			data = new StRec;
+			cin >> data->firstName >> data->lastName >> data->phone;
+			if (data->firstName.length() > 25 || data->lastName.length() > 30 || data->phone.length() > 15 || notNumber(data->phone)) {
+				cout << "Input Error" << endl;
+			}
+			else if (input == "insert") {
+				_insert(data);
+			}
+			else if (input == "search") {
+				_search(data);
+			}
+			else if (input == "delete") {
+				_delete(data);
+			}
+		}
+	}
+
+	return 0;
+}
+
+void _insert(StRec* data) {
+	StRec* current = head;
+	int count = 0;
+	while (current->next != 0 && (data->firstName != current->firstName || data->lastName != current->lastName)) {
+		count++;
+		current = current->next;
+	}
+	if (count == 10 || (data->firstName == current->firstName && data->lastName == current->lastName)) {
+		cout << "Insert Error" << endl;
+		return;
+	}
+	else {
+		current->next = data;
+		return;
+	}
+}
+void _search(StRec* data) {
+	StRec* current = head;
+	int record = 0;
+	while (current != 0 && (data->firstName != current->firstName || data->lastName != current->lastName)) {
+		record++;
+		current = current->next;
+	}
+	if (current != NULL && (data->firstName == current->firstName && data->lastName == current->lastName)) {
+		cout << record - 1 << endl;
+	}
+	else {
+		cout << "Search Error" << endl;
+	}
+}
+void _delete(StRec* data) {
+	StRec* current = head;
+	StRec* previous = head;
+	while (current != 0 &&(data->firstName != current->firstName || data->lastName != current->lastName)) {
+		previous = current;
+		current = current->next;
+	}
+	if (current != 0 && (data->firstName == current->firstName && data->lastName == current->lastName)) {
+		previous->next = current->next;
+		delete current;
+	}
+	else {
+		cout << "Delete Error" << endl;
+	}
+}
+void _print() {
+	StRec* current = head;
+	if (current == NULL) {
+		cout << "Print Error" << endl;
+	}
+	else {
+		while (current != 0) {
+			cout << current->firstName << " " << current->lastName << " " << current->phone << endl;
+			current = current->next;
+		}
+	}
+}
+
+bool notNumber(string phone) {
+	int index = 0;
+	while (index++) {
+		if (!isdigit(phone[index])) {
+			return true;
+		}
+	}
+	return false;
+}

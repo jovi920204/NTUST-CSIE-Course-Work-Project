@@ -1,0 +1,8 @@
+當使用者試圖往牆走時輸出”Invalid location”(0.5%)
+File: source.cpp
+Line: 15
+
+出現任何不合法的輸入時，輸出”invalid input”(0.5%)
+File: source.cpp
+Line: 15
+

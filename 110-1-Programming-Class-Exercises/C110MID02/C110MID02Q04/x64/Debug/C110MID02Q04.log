@@ -1,0 +1,7 @@
+﻿  main.c
+D:\台科大\程式設計\C110MID02\C110MID02Q04\main.c(25,6): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+D:\台科大\程式設計\C110MID02\C110MID02Q04\main.c(65,21): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\台科大\程式設計\C110MID02\C110MID02Q04\main.c(28,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\台科大\程式設計\C110MID02\C110MID02Q04\main.c(29,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\台科大\程式設計\C110MID02\C110MID02Q04\main.c(30,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  C110MID02Q04.vcxproj -> D:\台科大\程式設計\C110MID02\x64\Debug\C110MID02Q04.exe

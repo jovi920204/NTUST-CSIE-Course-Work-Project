@@ -1,0 +1,23 @@
+﻿  Source.cpp
+F:\台科大\程式設計\110-2\正課\CS3005302W13\TS1201\Source.cpp(37,24): warning C4244: '=': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned char
+          ]
+F:\台科大\程式設計\110-2\正課\CS3005302W13\TS1201\Source.cpp(49,22): warning C4244: '=': conversion from 'unsigned short' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned char
+          ]
+F:\台科大\程式設計\110-2\正課\CS3005302W13\TS1201\Source.cpp(54,26): warning C4305: '=': truncation from 'int' to '_Ty'
+          with
+          [
+              _Ty=unsigned char
+          ]
+F:\台科大\程式設計\110-2\正課\CS3005302W13\TS1201\Source.cpp(54,22): warning C4309: '=': truncation of constant value
+F:\台科大\程式設計\110-2\正課\CS3005302W13\TS1201\Source.cpp(68,22): warning C4244: '=': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned char
+          ]
+  TS1201.vcxproj -> F:\台科大\程式設計\110-2\正課\CS3005302W13\x64\Debug\TS1201.exe

@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\jovi9\Desktop\台科大程式設計\C1101227\C1101227Q01\main.c(102,13): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\jovi9\Desktop\台科大程式設計\C1101227\C1101227Q01\main.c(28): warning C4715: 'FrontIsWall': not all control paths return a value
+C:\Users\jovi9\Desktop\台科大程式設計\C1101227\C1101227Q01\main.c(40): warning C4715: 'LeftIsWall': not all control paths return a value
+  C1101227Q01.vcxproj -> C:\Users\jovi9\Desktop\台科大程式設計\C1101227\x64\Debug\C1101227Q01.exe

@@ -1,0 +1,29 @@
+﻿  Source.cpp
+D:\台科大\程式設計\110-2\實習\CS1010302W08\TS0803\Source.cpp(30,24): warning C4244: '=': 將 'unsigned __int64' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=unsigned char
+          ]
+D:\台科大\程式設計\110-2\實習\CS1010302W08\TS0803\Source.cpp(41,22): warning C4244: '=': 將 'unsigned short' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=unsigned char
+          ]
+D:\台科大\程式設計\110-2\實習\CS1010302W08\TS0803\Source.cpp(46,26): warning C4305: '=': 從 'int' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=unsigned char
+          ]
+D:\台科大\程式設計\110-2\實習\CS1010302W08\TS0803\Source.cpp(46,22): warning C4309: '=': 轉換導致常數值遭截斷; 可能需要使用較大的類型
+D:\台科大\程式設計\110-2\實習\CS1010302W08\TS0803\Source.cpp(59,22): warning C4244: '=': 將 'unsigned __int64' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=unsigned char
+          ]
+D:\台科大\程式設計\110-2\實習\CS1010302W08\TS0803\Source.cpp(64,26): warning C4305: '=': 從 'int' 轉換為 '_Ty'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              _Ty=unsigned char
+          ]
+D:\台科大\程式設計\110-2\實習\CS1010302W08\TS0803\Source.cpp(64,22): warning C4309: '=': 轉換導致常數值遭截斷; 可能需要使用較大的類型
+  TS0803.vcxproj -> D:\台科大\程式設計\110-2\實習\CS1010302W08\x64\Debug\TS0803.exe

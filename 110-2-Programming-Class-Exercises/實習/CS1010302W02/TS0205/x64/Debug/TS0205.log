@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\台科大\程式設計\110-2\實習\CS1010302W02\TS0205\Source.cpp(24,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\台科大\程式設計\110-2\實習\CS1010302W02\TS0205\Source.cpp(29,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\台科大\程式設計\110-2\實習\CS1010302W02\TS0205\Source.cpp(33,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TS0205.vcxproj -> F:\台科大\程式設計\110-2\實習\CS1010302W02\x64\Debug\TS0205.exe

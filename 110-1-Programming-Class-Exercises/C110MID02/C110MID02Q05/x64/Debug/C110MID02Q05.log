@@ -1,0 +1,4 @@
+﻿  main.c
+D:\台科大\程式設計\C110MID02\C110MID02Q05\main.c(10,6): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+D:\台科大\程式設計\C110MID02\C110MID02Q05\main.c(15,23): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+  C110MID02Q05.vcxproj -> D:\台科大\程式設計\C110MID02\x64\Debug\C110MID02Q05.exe
